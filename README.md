@@ -10,4 +10,4 @@ You will figure out what need to be done next
 
 To run tests 
 
-`./vendor/bin/phpunit`
+`./vendor/bin/phpunit --coverage-text`
